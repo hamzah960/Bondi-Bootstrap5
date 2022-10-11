@@ -1,0 +1,15 @@
+.main-button {
+    background-color: #ff3150;
+    border: none;
+    color: $yellow-color;
+    padding: 8px 25px;
+}
+
+.padding-section {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+.line {
+    @include line;
+}
